@@ -1,0 +1,2462 @@
+[
+	{
+		"idStore": "1213",
+		"Name": "Agness",
+		"Phone": "541-247-7233",
+		"Address": "04219 Agness Rd",
+		"City": "Agness",
+		"State": "OR",
+		"ZIP": "97406",
+		"Hours": "7-7 M - Sun"
+	},
+	{
+		"idStore": "1219",
+		"Name": "Albany Downtown",
+		"Phone": "541-926-1166",
+		"Address": "104 4th Ave SE",
+		"City": "Albany Downtown",
+		"State": "OR",
+		"ZIP": "97321",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1103",
+		"Name": "Albany East",
+		"Phone": "541-926-2887",
+		"Address": "2530 Pacific Blvd SE",
+		"City": "Albany East",
+		"State": "OR",
+		"ZIP": "97321",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1191",
+		"Name": "Aloha Farmington",
+		"Phone": "503-649-6155",
+		"Address": "17455 SW Farmington Rd Ste 30A",
+		"City": "Aloha Farmington",
+		"State": "OR",
+		"ZIP": "97007",
+		"Hours": "11-7 M-T;10-7 F-S; Closed Sunday"
+	},
+	{
+		"idStore": "1239",
+		"Name": "Aloha TV Hwy",
+		"Phone": "503-591-9590",
+		"Address": "20285 SW Tualatin Valley Highway",
+		"City": "Aloha TV Hwy",
+		"State": "OR",
+		"ZIP": "97006",
+		"Hours": "11-7 M-Th; 10-8 FS; 11-4 Sun"
+	},
+	{
+		"idStore": "1039",
+		"Name": "Amity",
+		"Phone": "503-835-0300",
+		"Address": "520 S. Trade St",
+		"City": "Amity",
+		"State": "OR",
+		"ZIP": "97101",
+		"Hours": "9-9 M-S; 9-8 Sun"
+	},
+	{
+		"idStore": "1064",
+		"Name": "Arlington",
+		"Phone": "541-454-2633",
+		"Address": "200 Arlington Mall",
+		"City": "Arlington",
+		"State": "OR",
+		"ZIP": "97812",
+		"Hours": "8-6 M-S; 10-2 Sun"
+	},
+	{
+		"idStore": "1012",
+		"Name": "Ashland",
+		"Phone": "541-482-4258",
+		"Address": "40 Lithia Way",
+		"City": "Ashland",
+		"State": "OR",
+		"ZIP": "97520",
+		"Hours": "10-7 M-Th; 10-8 F-S; 12-6 Sun"
+	},
+	{
+		"idStore": "1167",
+		"Name": "Astoria",
+		"Phone": "503-325-4784",
+		"Address": "730 Bond Street, Suite A ",
+		"City": "Astoria",
+		"State": "OR",
+		"ZIP": "97103",
+		"Hours": "10-7 M-S; 11-4 Sun"
+	},
+	{
+		"idStore": "1006",
+		"Name": "Athena",
+		"Phone": "541-566-2396",
+		"Address": "313 E. Main St",
+		"City": "Athena",
+		"State": "OR",
+		"ZIP": "97813",
+		"Hours": "7-7 M-S;7-6 Sun"
+	},
+	{
+		"idStore": "1092",
+		"Name": "Baker City",
+		"Phone": "541-523-5022",
+		"Address": "1250 Campbell St",
+		"City": "Baker City",
+		"State": "OR",
+		"ZIP": "97814",
+		"Hours": "10-7 M-Th; 10-8 F; 10-7 S; Closed Sunday"
+	},
+	{
+		"idStore": "1056",
+		"Name": "Bandon",
+		"Phone": "541-347-2106",
+		"Address": "1125 Alabama Ave SE",
+		"City": "Bandon",
+		"State": "OR",
+		"ZIP": "97411",
+		"Hours": "10-7 M-S; 10-2 Sun"
+	},
+	{
+		"idStore": "1073",
+		"Name": "Banks",
+		"Phone": "503-324-2171",
+		"Address": "660 S Main St",
+		"City": "Banks",
+		"State": "OR",
+		"ZIP": "97106",
+		"Hours": "7-10 M-S; 7-10 Sun"
+	},
+	{
+		"idStore": "1237",
+		"Name": "Beaverton Allen Blvd",
+		"Phone": "503-644-2235",
+		"Address": "14334 SW Allen Blvd",
+		"City": "Beaverton Allen Blvd",
+		"State": "OR",
+		"ZIP": "97005",
+		"Hours": "11-7 M-W; 11-8 Th-S; 11-6 Sun"
+	},
+	{
+		"idStore": "1086",
+		"Name": "Beaverton Progress",
+		"Phone": "503-646-2875",
+		"Address": "8616 SW Hall Blvd",
+		"City": "Beaverton Progress",
+		"State": "OR",
+		"ZIP": "97008",
+		"Hours": "11-7 M-Th; 11-8 F-S;11-5 Sun"
+	},
+	{
+		"idStore": "1230",
+		"Name": "Beaverton Town Square",
+		"Phone": "503-644-7567",
+		"Address": "11423 SW Beaverton/Hillsdale Hwy",
+		"City": "Beaverton Town Square",
+		"State": "OR",
+		"ZIP": "97005",
+		"Hours": "10-10 MS; 11-5 Sun"
+	},
+	{
+		"idStore": "1150",
+		"Name": "Bend East",
+		"Phone": "541-318-2977",
+		"Address": "2220 NE Highway 20, Ste. 1 ",
+		"City": "Bend East",
+		"State": "OR",
+		"ZIP": "97701",
+		"Hours": "10-8 M-W; 9-9 Th-S; 11-6 Sun"
+	},
+	{
+		"idStore": "1163",
+		"Name": "Bend North",
+		"Phone": "541-382-7050",
+		"Address": "2000 NE 3rd Street #108",
+		"City": "Bend North",
+		"State": "OR",
+		"ZIP": "97701",
+		"Hours": "10-8 M-Th, 10-9 FS, 11-6 Sun"
+	},
+	{
+		"idStore": "1069",
+		"Name": "Bend South",
+		"Phone": "541-388-0692",
+		"Address": "61153 S Highway 97",
+		"City": "Bend South",
+		"State": "OR",
+		"ZIP": "97702",
+		"Hours": "10-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1242",
+		"Name": "Bend West",
+		"Phone": "541-312-2229",
+		"Address": "210 SW Century Drive, Ste. 110 ",
+		"City": "Bend West",
+		"State": "OR",
+		"ZIP": "97702",
+		"Hours": "11-7 M-T; 10-8 FS; 12-6 Sun"
+	},
+	{
+		"idStore": "1222",
+		"Name": "Birkenfeld",
+		"Phone": "503-755-2722",
+		"Address": "11139 Highway 202",
+		"City": "Birkenfeld",
+		"State": "OR",
+		"ZIP": "97016",
+		"Hours": "9-6 M-Sat; 9-5 Sun"
+	},
+	{
+		"idStore": "1165",
+		"Name": "Blue River",
+		"Phone": "541-822-3531",
+		"Address": "51748 Cascade Street",
+		"City": "Blue River",
+		"State": "OR",
+		"ZIP": "97413",
+		"Hours": "Win: 8-7M-F;9-7S;10-5Sun. Sum: 8-8M-F;9-8S;10-7Sun"
+	},
+	{
+		"idStore": "1044",
+		"Name": "Bly",
+		"Phone": "541-353-2271",
+		"Address": "61278 Hwy 140 E",
+		"City": "Bly",
+		"State": "OR",
+		"ZIP": "97622",
+		"Hours": "Winter: 7-6 M-Sun; Summer: 7-7 M-Sun"
+	},
+	{
+		"idStore": "1161",
+		"Name": "Boardman",
+		"Phone": "541-481-9474",
+		"Address": "202 1st NW",
+		"City": "Boardman",
+		"State": "OR",
+		"ZIP": "97818",
+		"Hours": "9-6 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1111",
+		"Name": "Bonanza",
+		"Phone": "541-545-6621",
+		"Address": "31919 Hwy 70",
+		"City": "Bonanza",
+		"State": "OR",
+		"ZIP": "97623",
+		"Hours": "7-9 M-S; 7-9 Sun"
+	},
+	{
+		"idStore": "1129",
+		"Name": "Brookings",
+		"Phone": "541-469-2502",
+		"Address": "896 Chetco Ave",
+		"City": "Brookings",
+		"State": "OR",
+		"ZIP": "97415",
+		"Hours": "10-6 M-Th; 10-7 FS; 12-4 Sun"
+	},
+	{
+		"idStore": "1009",
+		"Name": "Brownsville",
+		"Phone": "541-466-9100",
+		"Address": "136 Spaulding Ave",
+		"City": "Brownsville",
+		"State": "OR",
+		"ZIP": "97327",
+		"Hours": "10-7 M-Th; 10-7:30 FS; Closed Sunday"
+	},
+	{
+		"idStore": "1014",
+		"Name": "Burns",
+		"Phone": "541-573-2511",
+		"Address": "763 Ponderosa Village",
+		"City": "Burns",
+		"State": "OR",
+		"ZIP": "97720",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1226",
+		"Name": "Butte Falls",
+		"Phone": "541-865-3223",
+		"Address": "415 Broad St",
+		"City": "Butte Falls",
+		"State": "OR",
+		"ZIP": "97522",
+		"Hours": "Winter: 8-8 M-Sun; Summer: 8-9 M-Sun"
+	},
+	{
+		"idStore": "1208",
+		"Name": "Camas Valley",
+		"Phone": "541-445-2313",
+		"Address": "18355 Highway 42",
+		"City": "Camas Valley",
+		"State": "OR",
+		"ZIP": "97416",
+		"Hours": "Winter: 7-8 M-S; Summer: 7-8 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1122",
+		"Name": "Canby",
+		"Phone": "503-266-3562",
+		"Address": "426 NW 1st Avenue",
+		"City": "Canby",
+		"State": "OR",
+		"ZIP": "97013",
+		"Hours": "11-7 M-S; 12-4 Sun"
+	},
+	{
+		"idStore": "1018",
+		"Name": "Cannon Beach",
+		"Phone": "503-436-2558",
+		"Address": "171 Sunset Blvd",
+		"City": "Cannon Beach",
+		"State": "OR",
+		"ZIP": "97110",
+		"Hours": "11-7 M-Th; 12-8 F; 11-7 S; 12-6 Sun"
+	},
+	{
+		"idStore": "1247",
+		"Name": "Cannon Beach Downtown",
+		"Phone": "503-436-0677",
+		"Address": "239 N Hemlock",
+		"City": "Cannon Beach Downtown",
+		"State": "OR",
+		"ZIP": "97110",
+		"Hours": "11 - 7 M-Sun"
+	},
+	{
+		"idStore": "1134",
+		"Name": "Canyonville",
+		"Phone": "541-839-4105",
+		"Address": "425 N Main Street",
+		"City": "Canyonville",
+		"State": "OR",
+		"ZIP": "97417",
+		"Hours": "7-10 M-S; 7-10 Sun"
+	},
+	{
+		"idStore": "1114",
+		"Name": "Cascade Locks",
+		"Phone": "541-374-8425",
+		"Address": "450 Wanapa Street",
+		"City": "Cascade Locks",
+		"State": "OR",
+		"ZIP": "97014",
+		"Hours": "WIN 7:30-9 M-Sun; SUM 7:30-10 M-Sun"
+	},
+	{
+		"idStore": "1138",
+		"Name": "Cave Junction",
+		"Phone": "541-592-3685",
+		"Address": "121 S. Redwood Hwy",
+		"City": "Cave Junction",
+		"State": "OR",
+		"ZIP": "97523",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1085",
+		"Name": "Central Point",
+		"Phone": "541-664-3910",
+		"Address": "1217 Plaza Blvd., Suite C ",
+		"City": "Central Point",
+		"State": "OR",
+		"ZIP": "97502",
+		"Hours": "11-8 M-Th; 11-9 FS; 12-5 Sun"
+	},
+	{
+		"idStore": "1211",
+		"Name": "Charleston",
+		"Phone": "541-888-4646",
+		"Address": "91133 Cape Arago Hwy",
+		"City": "Charleston",
+		"State": "OR",
+		"ZIP": "97420",
+		"Hours": "9-9 M-S; 9-8 Sun"
+	},
+	{
+		"idStore": "1110",
+		"Name": "Chemult",
+		"Phone": "541-365-4422",
+		"Address": "94511 Highway 97 N",
+		"City": "Chemult",
+		"State": "OR",
+		"ZIP": "97731",
+		"Hours": "9-8 MS; 10-6 Sun"
+	},
+	{
+		"idStore": "1084",
+		"Name": "Chiloquin",
+		"Phone": "541-783-2346",
+		"Address": "323 Chocktoot",
+		"City": "Chiloquin",
+		"State": "OR",
+		"ZIP": "97624",
+		"Hours": "7:30-8 M-S; 9-8 Sun"
+	},
+	{
+		"idStore": "1223",
+		"Name": "Christmas Valley",
+		"Phone": "541-576-2500",
+		"Address": "87164 Christmas Valley Hwy",
+		"City": "Christmas Valley",
+		"State": "OR",
+		"ZIP": "97641",
+		"Hours": "Winter: 7-8 M-Sun; Summer: 7-9 M-Sun"
+	},
+	{
+		"idStore": "1101",
+		"Name": "Clackamas",
+		"Phone": "503-656-5186",
+		"Address": "16142 SE 82nd Dr",
+		"City": "Clackamas",
+		"State": "OR",
+		"ZIP": "97015",
+		"Hours": "10:30-7:30 M-Th,10:30-8 FS; 11-4 Sun"
+	},
+	{
+		"idStore": "1238",
+		"Name": "Clackamas Sunnyside",
+		"Phone": "503-698-5829",
+		"Address": "12038 SE Sunnyside Rd",
+		"City": "Clackamas Sunnyside",
+		"State": "OR",
+		"ZIP": "97015",
+		"Hours": "11-8 M-Th; 10-8 FS; 12-5 Sun"
+	},
+	{
+		"idStore": "1027",
+		"Name": "Clatskanie",
+		"Phone": "503-728-2892",
+		"Address": "235 W. Columbia River Hwy",
+		"City": "Clatskanie",
+		"State": "OR",
+		"ZIP": "97016",
+		"Hours": "10-7 M-S; 10-4 Sun"
+	},
+	{
+		"idStore": "1123",
+		"Name": "Cloverdale",
+		"Phone": "503-392-3456",
+		"Address": "34385 Highway 101 S",
+		"City": "Cloverdale",
+		"State": "OR",
+		"ZIP": "97112",
+		"Hours": "9-6 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1001",
+		"Name": "Condon",
+		"Phone": "541-384-2801",
+		"Address": "225 S Main Street",
+		"City": "Condon",
+		"State": "OR",
+		"ZIP": "97823",
+		"Hours": "9-6 M-F; 10-6 S; Closed Sunday"
+	},
+	{
+		"idStore": "1108",
+		"Name": "Coos Bay",
+		"Phone": "541-267-6421",
+		"Address": "784 Central Ave.",
+		"City": "Coos Bay",
+		"State": "OR",
+		"ZIP": "97420",
+		"Hours": "10-7 M-Th;10-8 F-S;11-6 Sun"
+	},
+	{
+		"idStore": "1055",
+		"Name": "Coquille",
+		"Phone": "541-396-4651",
+		"Address": "630 Hwy 42 E",
+		"City": "Coquille",
+		"State": "OR",
+		"ZIP": "97423",
+		"Hours": "11-7 M-S; 11-3 Sun"
+	},
+	{
+		"idStore": "1228",
+		"Name": "Corvallis Downtown",
+		"Phone": "541-753-7998",
+		"Address": "575 SW Washington Avenue",
+		"City": "Corvallis Downtown",
+		"State": "OR",
+		"ZIP": "97333",
+		"Hours": "10-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1194",
+		"Name": "Corvallis North",
+		"Phone": "541-754-0769",
+		"Address": "935 NW Circle Blvd.",
+		"City": "Corvallis North",
+		"State": "OR",
+		"ZIP": "97330",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1137",
+		"Name": "Cottage Grove",
+		"Phone": "541-942-3469",
+		"Address": "1785 E Main St #3",
+		"City": "Cottage Grove",
+		"State": "OR",
+		"ZIP": "97424",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1081",
+		"Name": "Crescent",
+		"Phone": "541-433-2530",
+		"Address": "136854 Highway 97 N",
+		"City": "Crescent",
+		"State": "OR",
+		"ZIP": "97733",
+		"Hours": "9-6 M-S; 12-5 Sun"
+	},
+	{
+		"idStore": "1153",
+		"Name": "Creswell",
+		"Phone": "541-895-2559",
+		"Address": "159 E Oregon Ave",
+		"City": "Creswell",
+		"State": "OR",
+		"ZIP": "97426",
+		"Hours": "10:30-8 M-Th;10:30-9 FS; Closed Sunday"
+	},
+	{
+		"idStore": "1016",
+		"Name": "Dallas",
+		"Phone": "503-623-9668",
+		"Address": "170 W. Ellendale, Suite 105 ",
+		"City": "Dallas",
+		"State": "OR",
+		"ZIP": "97338",
+		"Hours": "11-7 M-S; 12-6 Sun"
+	},
+	{
+		"idStore": "1135",
+		"Name": "Dayville",
+		"Phone": "541-987-2133",
+		"Address": "207 W Franklin Ave",
+		"City": "Dayville",
+		"State": "OR",
+		"ZIP": "97825",
+		"Hours": "Winter: 9-6 M-S; 9-5 Sun. Summer: 8-6 M-S; 9-5 Sun"
+	},
+	{
+		"idStore": "1020",
+		"Name": "Depoe Bay",
+		"Phone": "541-765-2317",
+		"Address": "Hwy 101, Mall 101, Ste H ",
+		"City": "Depoe Bay",
+		"State": "OR",
+		"ZIP": "97341",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1203",
+		"Name": "Detroit",
+		"Phone": "503-854-3696",
+		"Address": "215 D Street",
+		"City": "Detroit",
+		"State": "OR",
+		"ZIP": "97342",
+		"Hours": "Winter: 7-8 Sun-Th; 7-10 FS; Summer: 7-10 M-Sun"
+	},
+	{
+		"idStore": "1206",
+		"Name": "Dexter",
+		"Phone": "541-937-2993",
+		"Address": "39092 Dexter Rd",
+		"City": "Dexter",
+		"State": "OR",
+		"ZIP": "97431",
+		"Hours": "11-8 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1088",
+		"Name": "Drain",
+		"Phone": "541-836-2054",
+		"Address": "202 Second Street",
+		"City": "Drain",
+		"State": "OR",
+		"ZIP": "97435",
+		"Hours": "9-9 Sun-Th; 9-10 FS"
+	},
+	{
+		"idStore": "1026",
+		"Name": "Eagle Point",
+		"Phone": "541-826-3255",
+		"Address": "11150 Highway 62",
+		"City": "Eagle Point",
+		"State": "OR",
+		"ZIP": "97524",
+		"Hours": "9:30-8 M-S, 11-5 Sun"
+	},
+	{
+		"idStore": "1079",
+		"Name": "Elgin",
+		"Phone": "541-437-9511",
+		"Address": "393 Albany St",
+		"City": "Elgin",
+		"State": "OR",
+		"ZIP": "97827",
+		"Hours": "9:30-8 M-Th; 9:30-9 FS; 11-5 Sun"
+	},
+	{
+		"idStore": "1005",
+		"Name": "Enterprise",
+		"Phone": "541-426-4393",
+		"Address": "106 W Main Street",
+		"City": "Enterprise",
+		"State": "OR",
+		"ZIP": "97828",
+		"Hours": "10-6 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1046",
+		"Name": "Estacada",
+		"Phone": "503-630-6886",
+		"Address": "305 SW Wade St.",
+		"City": "Estacada",
+		"State": "OR",
+		"ZIP": "97023",
+		"Hours": "10-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1218",
+		"Name": "Eugene Downtown",
+		"Phone": "541-343-4424",
+		"Address": "220 W 8th Ave",
+		"City": "Eugene Downtown",
+		"State": "OR",
+		"ZIP": "97401",
+		"Hours": "10-8 M-Th; 10-9 FS; Closed Sunday"
+	},
+	{
+		"idStore": "1193",
+		"Name": "Eugene NE",
+		"Phone": "541-485-3093",
+		"Address": "440 Coburg Rd Suite 100",
+		"City": "Eugene NE",
+		"State": "OR",
+		"ZIP": "97401",
+		"Hours": "10-8 M-T; 10-9 F-S; 11-5 Sun"
+	},
+	{
+		"idStore": "1169",
+		"Name": "Eugene NW",
+		"Phone": "541-688-1400",
+		"Address": "74 Division Ave",
+		"City": "Eugene NW",
+		"State": "OR",
+		"ZIP": "97404",
+		"Hours": "11-8 M-Th; 11-9 FS; 11-6 Sun"
+	},
+	{
+		"idStore": "1154",
+		"Name": "Eugene South",
+		"Phone": "541-343-3611",
+		"Address": "2866 Willamette St",
+		"City": "Eugene South",
+		"State": "OR",
+		"ZIP": "97405",
+		"Hours": "10-8 M-Th; 10-9 F-S; 10-7 Sun"
+	},
+	{
+		"idStore": "1188",
+		"Name": "Eugene West",
+		"Phone": "541-343-2757",
+		"Address": "2170 W 6th Avenue",
+		"City": "Eugene West",
+		"State": "OR",
+		"ZIP": "97402",
+		"Hours": "10-8 M-TH, 10-9 FS; Closed Sunday"
+	},
+	{
+		"idStore": "1229",
+		"Name": "Eugene Westside",
+		"Phone": "541-342-3881",
+		"Address": "4355 Commerce St #109",
+		"City": "Eugene Westside",
+		"State": "OR",
+		"ZIP": "97402",
+		"Hours": "10-8 M-Th; 10-9 FS; 11-5 Sun"
+	},
+	{
+		"idStore": "1159",
+		"Name": "Fields",
+		"Phone": "541-495-2275",
+		"Address": "22276 Fields Dr",
+		"City": "Fields",
+		"State": "OR",
+		"ZIP": "97710",
+		"Hours": "8-6 M-S; 9-5 Sun"
+	},
+	{
+		"idStore": "1077",
+		"Name": "Florence",
+		"Phone": "541-997-2084",
+		"Address": "1730 Highway 126",
+		"City": "Florence",
+		"State": "OR",
+		"ZIP": "97439",
+		"Hours": "10-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1146",
+		"Name": "Forest Grove",
+		"Phone": "503-359-5586",
+		"Address": "3130 Pacific Ave",
+		"City": "Forest Grove",
+		"State": "OR",
+		"ZIP": "97116",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1066",
+		"Name": "Fossil",
+		"Phone": "541-763-3441",
+		"Address": "690 Main Street",
+		"City": "Fossil",
+		"State": "OR",
+		"ZIP": "97830",
+		"Hours": "9-6 Mon-Sat"
+	},
+	{
+		"idStore": "1125",
+		"Name": "Garibaldi",
+		"Phone": "503-322-3456",
+		"Address": "510 Garibaldi Ave",
+		"City": "Garibaldi",
+		"State": "OR",
+		"ZIP": "97118",
+		"Hours": "9-6 M-F; 10-6 S; Closed Sunday"
+	},
+	{
+		"idStore": "1160",
+		"Name": "Gearhart",
+		"Phone": "503-738-8232",
+		"Address": "4206 Highway 101 N",
+		"City": "Gearhart",
+		"State": "OR",
+		"ZIP": "97138",
+		"Hours": "Winter: 11-7 M-S; Summer: 12-6 M-Sun"
+	},
+	{
+		"idStore": "1065",
+		"Name": "Glendale",
+		"Phone": "541-832-2561",
+		"Address": "432 Pacific Ave",
+		"City": "Glendale",
+		"State": "OR",
+		"ZIP": "97442",
+		"Hours": "9-7 M-S; 10-6 Sun"
+	},
+	{
+		"idStore": "1057",
+		"Name": "Gold Beach",
+		"Phone": "541-247-7514",
+		"Address": "29830 Ellensburg Avenue",
+		"City": "Gold Beach",
+		"State": "OR",
+		"ZIP": "97444",
+		"Hours": "10-6 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1244",
+		"Name": "Government Camp",
+		"Phone": "503-272-3107",
+		"Address": "30521 E Meldrum St",
+		"City": "Government Camp",
+		"State": "OR",
+		"ZIP": "97028",
+		"Hours": "10-8 M-Sun"
+	},
+	{
+		"idStore": "1076",
+		"Name": "Grants Pass Downtown",
+		"Phone": "541-479-3729",
+		"Address": "210 SE 8th Street",
+		"City": "Grants Pass Downtown",
+		"State": "OR",
+		"ZIP": "97526",
+		"Hours": "9-7 M-Th; 9-8 FS; Closed Sunday"
+	},
+	{
+		"idStore": "1214",
+		"Name": "Grants Pass East",
+		"Phone": "541-476-1844",
+		"Address": "1638 Williams Hwy",
+		"City": "Grants Pass East",
+		"State": "OR",
+		"ZIP": "97527",
+		"Hours": "9-7 M-Th; 9-8 FS; 11-5 Sun"
+	},
+	{
+		"idStore": "1227",
+		"Name": "Grass Valley",
+		"Phone": "541-333-2507",
+		"Address": "104 N Mill",
+		"City": "Grass Valley",
+		"State": "OR",
+		"ZIP": "97029",
+		"Hours": "8-6:30 M-F; 8-7 S, 10-6 Sun"
+	},
+	{
+		"idStore": "1025",
+		"Name": "Gresham East",
+		"Phone": "503-665-9327",
+		"Address": "2414 SE Burnside Road",
+		"City": "Gresham East",
+		"State": "OR",
+		"ZIP": "97080",
+		"Hours": "11-10 M-S; 11-6 Sun"
+	},
+	{
+		"idStore": "1119",
+		"Name": "Gresham Rockwood",
+		"Phone": "503-665-4479",
+		"Address": "7 NE 181st Avenue",
+		"City": "Gresham Rockwood",
+		"State": "OR",
+		"ZIP": "97230",
+		"Hours": "11-8 M-S; 11-6 Sun"
+	},
+	{
+		"idStore": "1041",
+		"Name": "Gresham Troutdale",
+		"Phone": "503-665-5227",
+		"Address": "3030 NE Hogan Dr, # A ",
+		"City": "Gresham Troutdale",
+		"State": "OR",
+		"ZIP": "97030",
+		"Hours": "11-10 M-S; 11-6 Sun"
+	},
+	{
+		"idStore": "1071",
+		"Name": "Halfway",
+		"Phone": "541-742-2726",
+		"Address": "143 N Main St",
+		"City": "Halfway",
+		"State": "OR",
+		"ZIP": "97834",
+		"Hours": "10-6 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1098",
+		"Name": "Happy Valley Southgate",
+		"Phone": "503-774-4201",
+		"Address": "10415 SE 82nd Ave",
+		"City": "Happy Valley Southgate",
+		"State": "OR",
+		"ZIP": "97086",
+		"Hours": "10-8 M-S; 11-6 Sun"
+	},
+	{
+		"idStore": "1109",
+		"Name": "Harrisburg",
+		"Phone": "541-995-8203",
+		"Address": "103 S Third St.",
+		"City": "Harrisburg",
+		"State": "OR",
+		"ZIP": "97446",
+		"Hours": "7-10 M-Sun"
+	},
+	{
+		"idStore": "1002",
+		"Name": "Heppner",
+		"Phone": "541-676-9158",
+		"Address": "217 N Main Street",
+		"City": "Heppner",
+		"State": "OR",
+		"ZIP": "97836",
+		"Hours": "7:30-6 M-F; 9-6 S; Closed Sunday"
+	},
+	{
+		"idStore": "1010",
+		"Name": "Hermiston",
+		"Phone": "541-567-8885",
+		"Address": "125 SE 4th Street",
+		"City": "Hermiston",
+		"State": "OR",
+		"ZIP": "97838",
+		"Hours": "11-7 M-Th; 11-8 FS; 12-5 Sun"
+	},
+	{
+		"idStore": "1096",
+		"Name": "Hillsboro",
+		"Phone": "503-648-4232",
+		"Address": "218 SE 6th Ave",
+		"City": "Hillsboro",
+		"State": "OR",
+		"ZIP": "97123",
+		"Hours": "10-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1181",
+		"Name": "Hillsboro Aloha",
+		"Phone": "503-645-5813",
+		"Address": "1285 NW 185th Avenue",
+		"City": "Hillsboro Aloha",
+		"State": "OR",
+		"ZIP": "97006",
+		"Hours": "10-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1042",
+		"Name": "Hood River",
+		"Phone": "541-386-1991",
+		"Address": "2149 Cascade Ave #107",
+		"City": "Hood River",
+		"State": "OR",
+		"ZIP": "97031",
+		"Hours": "10-7 M-S; 12-6 Sun"
+	},
+	{
+		"idStore": "1204",
+		"Name": "Huntington",
+		"Phone": "541-869-2855",
+		"Address": "165 1st Street E",
+		"City": "Huntington",
+		"State": "OR",
+		"ZIP": "97907",
+		"Hours": "10-6 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1175",
+		"Name": "Idleyld Park",
+		"Phone": "541-496-3404",
+		"Address": "23873 N Umpqua Hwy",
+		"City": "Idleyld Park",
+		"State": "OR",
+		"ZIP": "97447",
+		"Hours": "7-9 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1054",
+		"Name": "Independence",
+		"Phone": "503-838-1941",
+		"Address": "1353 Monmouth St",
+		"City": "Independence",
+		"State": "OR",
+		"ZIP": "97351",
+		"Hours": "11-7 M-F; 10-6 S; Closed Sunday"
+	},
+	{
+		"idStore": "1209",
+		"Name": "Ione",
+		"Phone": "541-422-7122",
+		"Address": "285 W Main Street",
+		"City": "Ione",
+		"State": "OR",
+		"ZIP": "97843",
+		"Hours": "7-6 M-F; 8-5 S; Closed Sunday"
+	},
+	{
+		"idStore": "1080",
+		"Name": "Jacksonville",
+		"Phone": "541-899-1829",
+		"Address": "690 N Fifth",
+		"City": "Jacksonville",
+		"State": "OR",
+		"ZIP": "97530",
+		"Hours": "9-6 M-S; 11-5 Sun"
+	},
+	{
+		"idStore": "1051",
+		"Name": "John Day",
+		"Phone": "541-575-1611",
+		"Address": "131 N Canyon Blvd.",
+		"City": "John Day",
+		"State": "OR",
+		"ZIP": "97845",
+		"Hours": "10-6 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1136",
+		"Name": "Jordan Valley",
+		"Phone": "541-586-2201",
+		"Address": "807 Main Street",
+		"City": "Jordan Valley",
+		"State": "OR",
+		"ZIP": "97910",
+		"Hours": "7-10 M-Sun"
+	},
+	{
+		"idStore": "1082",
+		"Name": "Joseph",
+		"Phone": "541-432-2690",
+		"Address": "6 S. Main St",
+		"City": "Joseph",
+		"State": "OR",
+		"ZIP": "97846",
+		"Hours": "Winter: 8-6 M-S;10-4 Sun Summer: 7-6 M-S;10-4 Sun"
+	},
+	{
+		"idStore": "1061",
+		"Name": "Junction City",
+		"Phone": "541-998-6598",
+		"Address": "1650 Ivy St",
+		"City": "Junction City",
+		"State": "OR",
+		"ZIP": "97448",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1220",
+		"Name": "Keizer",
+		"Phone": "503-390-0322",
+		"Address": "3530 River Rd North",
+		"City": "Keizer",
+		"State": "OR",
+		"ZIP": "97303",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1224",
+		"Name": "Keno",
+		"Phone": "541-884-4944",
+		"Address": "15211 Hwy 66",
+		"City": "Keno",
+		"State": "OR",
+		"ZIP": "97627",
+		"Hours": "7-8 M-Sun"
+	},
+	{
+		"idStore": "1189",
+		"Name": "King City",
+		"Phone": "503-620-5115",
+		"Address": "15745 SW 116th Avenue",
+		"City": "King City",
+		"State": "OR",
+		"ZIP": "97224",
+		"Hours": "10-8 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1152",
+		"Name": "Klamath Falls Downtown",
+		"Phone": "541-882-3684",
+		"Address": "825 Klamath Ave",
+		"City": "Klamath Falls Downtown",
+		"State": "OR",
+		"ZIP": "97601",
+		"Hours": "10-8 M-S; 10-9 F; 11-3 Sun"
+	},
+	{
+		"idStore": "1030",
+		"Name": "Klamath Falls East",
+		"Phone": "541-884-3313",
+		"Address": "4309 S 6th Street",
+		"City": "Klamath Falls East",
+		"State": "OR",
+		"ZIP": "97603",
+		"Hours": "10-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1036",
+		"Name": "La Grande",
+		"Phone": "541-963-4386",
+		"Address": "2212 Island Avenue, Space 102 ",
+		"City": "La Grande",
+		"State": "OR",
+		"ZIP": "97850",
+		"Hours": "11-7 M-Th; 11-8 F; 11-7 S; 1-5 Sun"
+	},
+	{
+		"idStore": "1034",
+		"Name": "La Pine",
+		"Phone": "541-536-2825",
+		"Address": "51470 Highway 97 #11",
+		"City": "La Pine",
+		"State": "OR",
+		"ZIP": "97739",
+		"Hours": "9:30-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1178",
+		"Name": "Lake Oswego Downtown",
+		"Phone": "503-636-1112",
+		"Address": "644 N State Street",
+		"City": "Lake Oswego Downtown",
+		"State": "OR",
+		"ZIP": "97034",
+		"Hours": "11-7 M-Th;10-8 FS; 12-5 Sun"
+	},
+	{
+		"idStore": "1158",
+		"Name": "Lake Oswego Mt Park",
+		"Phone": "503-636-0310",
+		"Address": "4D Monroe Parkway",
+		"City": "Lake Oswego Mt Park",
+		"State": "OR",
+		"ZIP": "97035",
+		"Hours": "10-7 M-W; 10-8 Th-S; Closed Sunday"
+	},
+	{
+		"idStore": "1049",
+		"Name": "Lakeside",
+		"Phone": "541-759-3733",
+		"Address": "215 S Eighth",
+		"City": "Lakeside",
+		"State": "OR",
+		"ZIP": "97449",
+		"Hours": "11-7 M-Sun"
+	},
+	{
+		"idStore": "1058",
+		"Name": "Lakeview",
+		"Phone": "541-947-2236",
+		"Address": "305 N F Street",
+		"City": "Lakeview",
+		"State": "OR",
+		"ZIP": "97630",
+		"Hours": "7-10 M-Th; 7-10 F; 9-9 S & Sun"
+	},
+	{
+		"idStore": "1013",
+		"Name": "Lebanon",
+		"Phone": "541-258-6126",
+		"Address": "2780 S Santiam Hwy",
+		"City": "Lebanon",
+		"State": "OR",
+		"ZIP": "97355",
+		"Hours": "11-7 M-Th; 11-8 FS; 12-6 Sun"
+	},
+	{
+		"idStore": "1091",
+		"Name": "Lincoln City North",
+		"Phone": "541-994-2521",
+		"Address": "2409 NW Hwy 101",
+		"City": "Lincoln City North",
+		"State": "OR",
+		"ZIP": "97367",
+		"Hours": "11-7 M-W;10-8 Th-Sat; 11-6 Sun"
+	},
+	{
+		"idStore": "1023",
+		"Name": "Lincoln City South",
+		"Phone": "541-996-2056",
+		"Address": "4787 SW Highway 101",
+		"City": "Lincoln City South",
+		"State": "OR",
+		"ZIP": "97367",
+		"Hours": "10-7 M-W; 10-8 Th-S; 11-6 Sun"
+	},
+	{
+		"idStore": "1148",
+		"Name": "Madras",
+		"Phone": "541-475-2491",
+		"Address": "1555 SW Highway 97, Suite A ",
+		"City": "Madras",
+		"State": "OR",
+		"ZIP": "97741",
+		"Hours": "10-7 M-S, 11-4 Sun"
+	},
+	{
+		"idStore": "1127",
+		"Name": "Malin",
+		"Phone": "541-723-2681",
+		"Address": "2115 Broadway St",
+		"City": "Malin",
+		"State": "OR",
+		"ZIP": "97632",
+		"Hours": "8-6 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1176",
+		"Name": "Mapleton",
+		"Phone": "541-268-4478",
+		"Address": "10792 Highway 126",
+		"City": "Mapleton",
+		"State": "OR",
+		"ZIP": "97453",
+		"Hours": "7-8 M-S; 7-8 Sun"
+	},
+	{
+		"idStore": "1149",
+		"Name": "Maupin",
+		"Phone": "541-395-2888",
+		"Address": "507 Deschutes Avenue",
+		"City": "Maupin",
+		"State": "OR",
+		"ZIP": "97037",
+		"Hours": "8-7 M-Sun"
+	},
+	{
+		"idStore": "1089",
+		"Name": "McMinnville",
+		"Phone": "503-472-2841",
+		"Address": "1270 NE Baker St",
+		"City": "McMinnville",
+		"State": "OR",
+		"ZIP": "97128",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1217",
+		"Name": "Medford East",
+		"Phone": "541-773-1505",
+		"Address": "535 Stevens Street, Ste K ",
+		"City": "Medford East",
+		"State": "OR",
+		"ZIP": "97504",
+		"Hours": "9-8 M-Th; 9-9 FS; 11-5 Sun"
+	},
+	{
+		"idStore": "1131",
+		"Name": "Medford North",
+		"Phone": "541-973-2240",
+		"Address": "1590 Delta Waters Rd, Suite 110 ",
+		"City": "Medford North",
+		"State": "OR",
+		"ZIP": "97504",
+		"Hours": "10-8 M-TH; 10-9 F-S; 12-5 Sun"
+	},
+	{
+		"idStore": "1174",
+		"Name": "Medford South",
+		"Phone": "541-772-1155",
+		"Address": "51 E Stewart Ave, Suite 100 ",
+		"City": "Medford South",
+		"State": "OR",
+		"ZIP": "97501",
+		"Hours": "9-8 M-S; 10-5 Sun"
+	},
+	{
+		"idStore": "1210",
+		"Name": "Medford West",
+		"Phone": "541-772-5611",
+		"Address": "2060 W Main St",
+		"City": "Medford West",
+		"State": "OR",
+		"ZIP": "97501",
+		"Hours": "10-8 M-Th; 10-10 F-S; 12-5 Sun"
+	},
+	{
+		"idStore": "1126",
+		"Name": "Merrill",
+		"Phone": "541-798-5722",
+		"Address": "137 W Front St",
+		"City": "Merrill",
+		"State": "OR",
+		"ZIP": "97633",
+		"Hours": "8-8 M-Sun"
+	},
+	{
+		"idStore": "1007",
+		"Name": "Mill City",
+		"Phone": "503-897-2881",
+		"Address": "250 NW 9TH Ave",
+		"City": "Mill City",
+		"State": "OR",
+		"ZIP": "97360",
+		"Hours": "9-7 M-F; 8-7 S; 8-4 Sun"
+	},
+	{
+		"idStore": "1063",
+		"Name": "Milton-Freewater",
+		"Phone": "541-938-5711",
+		"Address": "1006 S Main Street",
+		"City": "Milton-Freewater",
+		"State": "OR",
+		"ZIP": "97862",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1094",
+		"Name": "Milwaukie",
+		"Phone": "503-654-9020",
+		"Address": "10804 SE Oak St",
+		"City": "Milwaukie",
+		"State": "OR",
+		"ZIP": "97222",
+		"Hours": "10-8 M-S; 11-6 Sun"
+	},
+	{
+		"idStore": "1105",
+		"Name": "Milwaukie-Oak Grove",
+		"Phone": "503-653-7375",
+		"Address": "14632 SE McLoughlin Blvd.",
+		"City": "Milwaukie-Oak Grove",
+		"State": "OR",
+		"ZIP": "97267",
+		"Hours": "11-7:30 M-Th; 11-8:30 FS; 11-5 Sun"
+	},
+	{
+		"idStore": "1117",
+		"Name": "Molalla",
+		"Phone": "503-829-2384",
+		"Address": "1585 W Main Street, Ste G ",
+		"City": "Molalla",
+		"State": "OR",
+		"ZIP": "97038",
+		"Hours": "11-7 M-S; 12-4 Sun"
+	},
+	{
+		"idStore": "1233",
+		"Name": "Monument",
+		"Phone": "541-934-2290",
+		"Address": "335 John Day St",
+		"City": "Monument",
+		"State": "OR",
+		"ZIP": "97864",
+		"Hours": "8-6 M-S; 10-4 Sun"
+	},
+	{
+		"idStore": "1130",
+		"Name": "Myrtle Creek",
+		"Phone": "541-863-4596",
+		"Address": "217 NW 2nd Avenue",
+		"City": "Myrtle Creek",
+		"State": "OR",
+		"ZIP": "97457",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1043",
+		"Name": "Myrtle Point",
+		"Phone": "541-572-5093",
+		"Address": "309 Spruce St",
+		"City": "Myrtle Point",
+		"State": "OR",
+		"ZIP": "97458",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1162",
+		"Name": "Newberg",
+		"Phone": "503-538-5180",
+		"Address": "2303-A Portland Rd",
+		"City": "Newberg",
+		"State": "OR",
+		"ZIP": "97132",
+		"Hours": "11-7 M-Th; 10-7 FS; Closed Sunday"
+	},
+	{
+		"idStore": "1022",
+		"Name": "Newport",
+		"Phone": "541-265-5621",
+		"Address": "2019 N Coast Hwy",
+		"City": "Newport",
+		"State": "OR",
+		"ZIP": "97365",
+		"Hours": "11-7 M-S; 11-4 Sun"
+	},
+	{
+		"idStore": "1097",
+		"Name": "North Bend",
+		"Phone": "541-756-2616",
+		"Address": "2080 \"\"B\"\" Public Sq Ct. ",
+		"City": "North Bend",
+		"State": "OR",
+		"ZIP": "97459",
+		"Hours": "10-7 M-Th; 10-8 FS; Closed Sunday"
+	},
+	{
+		"idStore": "1038",
+		"Name": "North Powder",
+		"Phone": "541-898-2111",
+		"Address": "845 2nd St",
+		"City": "North Powder",
+		"State": "OR",
+		"ZIP": "97867",
+		"Hours": "8-7 M-S; 9-5 Sun"
+	},
+	{
+		"idStore": "1015",
+		"Name": "Nyssa",
+		"Phone": "541-372-2222",
+		"Address": "424 Main St.",
+		"City": "Nyssa",
+		"State": "OR",
+		"ZIP": "97913",
+		"Hours": "9-6 M-Th; 9-8 F; 12-8 S; Closed Sunday"
+	},
+	{
+		"idStore": "1118",
+		"Name": "Oakridge",
+		"Phone": "541-782-3405",
+		"Address": "47778 Highway 58",
+		"City": "Oakridge",
+		"State": "OR",
+		"ZIP": "97463",
+		"Hours": "10-8 M-S; 12-7 Sun"
+	},
+	{
+		"idStore": "1235",
+		"Name": "Odessa",
+		"Phone": "541-356-2272",
+		"Address": "28200 Hwy 140W",
+		"City": "Odessa",
+		"State": "OR",
+		"ZIP": "97601",
+		"Hours": "Winter: 7-7 M-Sun; Summer: 7-9 M-Sun"
+	},
+	{
+		"idStore": "1011",
+		"Name": "Ontario",
+		"Phone": "541-889-6129",
+		"Address": "1179 SW 4th Avenue",
+		"City": "Ontario",
+		"State": "OR",
+		"ZIP": "97914",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1172",
+		"Name": "Oregon City",
+		"Phone": "503-655-9334",
+		"Address": "1678 Beavercreek Rd, Suite Q ",
+		"City": "Oregon City",
+		"State": "OR",
+		"ZIP": "97045",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1037",
+		"Name": "Paisley",
+		"Phone": "541-943-3110",
+		"Address": "329 Highway 31",
+		"City": "Paisley",
+		"State": "OR",
+		"ZIP": "97636",
+		"Hours": "Winter: 8-6 M-S; Summer: 8-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1100",
+		"Name": "Pendleton",
+		"Phone": "541-276-1202",
+		"Address": "237 SW Emigrant Avenue",
+		"City": "Pendleton",
+		"State": "OR",
+		"ZIP": "97801",
+		"Hours": "10-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1062",
+		"Name": "Philomath",
+		"Phone": "541-929-3313",
+		"Address": "1805 Main Street",
+		"City": "Philomath",
+		"State": "OR",
+		"ZIP": "97370",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1033",
+		"Name": "Pilot Rock",
+		"Phone": "541-443-2251",
+		"Address": "168 NW Birch Street",
+		"City": "Pilot Rock",
+		"State": "OR",
+		"ZIP": "97868",
+		"Hours": "8:30-8 M-S; 8-7 Sun"
+	},
+	{
+		"idStore": "1128",
+		"Name": "Port Orford",
+		"Phone": "541-332-0990",
+		"Address": "1819 Oregon St",
+		"City": "Port Orford",
+		"State": "OR",
+		"ZIP": "97465",
+		"Hours": "10-6 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1205",
+		"Name": "Portland 205",
+		"Phone": "503-254-5454",
+		"Address": "10128A E Burnside Street",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97216",
+		"Hours": "11-9 M-Th; 11-10 FS; 11-7 Sun"
+	},
+	{
+		"idStore": "1139",
+		"Name": "Portland Barbur",
+		"Phone": "503-246-1760",
+		"Address": "9875 SW Barbur Blvd.",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97219",
+		"Hours": "12-9 M-Th; 12-10 FS; 12-8 Sun"
+	},
+	{
+		"idStore": "1236",
+		"Name": "Portland Barnes",
+		"Phone": "503-203-5145",
+		"Address": "7365-D SW Barnes Rd",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97225",
+		"Hours": "11:30-7:30 M-Th; 11:30-8 FS; 12-5 Sun"
+	},
+	{
+		"idStore": "1192",
+		"Name": "Portland Beaumont",
+		"Phone": "503-282-0178",
+		"Address": "3334 NE Killingsworth Street",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97211",
+		"Hours": "11-7 M-Th; 11-8 F-S; Closed Sunday"
+	},
+	{
+		"idStore": "1243",
+		"Name": "Portland Bethany Blvd",
+		"Phone": "503-533-5584",
+		"Address": "4756 NW Bethany Blvd",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97229",
+		"Hours": "11-7 M-Th; 11-8 FS; 11-6 Sun"
+	},
+	{
+		"idStore": "1107",
+		"Name": "Portland Cedar Mill",
+		"Phone": "503-626-2611",
+		"Address": "13528 NW Cornell Rd",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97229",
+		"Hours": "11-8 M-Th; 10-9 FS; 11-5 Sun"
+	},
+	{
+		"idStore": "1199",
+		"Name": "Portland Center",
+		"Phone": "503-241-9354",
+		"Address": "2075 SW First Ave, Suite 1B ",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97201",
+		"Hours": "10-7 M-Th; 10-8 FS; 12-6 Sun"
+	},
+	{
+		"idStore": "1145",
+		"Name": "Portland Division",
+		"Phone": "503-762-0227",
+		"Address": "16353 SE Division St, Suite 100 ",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97236",
+		"Hours": "10-8 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1164",
+		"Name": "Portland Downtown",
+		"Phone": "503-227-2791",
+		"Address": "550 SW Washington Street",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97204",
+		"Hours": "10:30-6 M-S; 12-6 Sun"
+	},
+	{
+		"idStore": "1186",
+		"Name": "Portland Eastport",
+		"Phone": "503-771-8535",
+		"Address": "4229 SE 82nd Ave Ste 1",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97266",
+		"Hours": "11-8 M-Th; 10-8 FS; 11-4 Sun"
+	},
+	{
+		"idStore": "1170",
+		"Name": "Portland Eleventh Ave",
+		"Phone": "503-236-2076",
+		"Address": "1040 SE Hawthorne Blvd.",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97214",
+		"Hours": "11-7 M-S; 11-5 Sun"
+	},
+	{
+		"idStore": "1241",
+		"Name": "Portland Garden Home",
+		"Phone": "503-246-3263",
+		"Address": "7410 SW Oleson Rd",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97223",
+		"Hours": "10-7 M-Th; 10-9 FS; 12-5 Sun"
+	},
+	{
+		"idStore": "1197",
+		"Name": "Portland Gateway",
+		"Phone": "503-252-4561",
+		"Address": "10320 NE Halsey Street",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97220",
+		"Hours": "11-7 M-S; 12-5 Sun"
+	},
+	{
+		"idStore": "1155",
+		"Name": "Portland Hawthorne",
+		"Phone": "503-235-1573",
+		"Address": "4638 SE Hawthorne Blvd.",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97215",
+		"Hours": "10-7 M-Th; 10-8 FS; Closed Sunday"
+	},
+	{
+		"idStore": "1035",
+		"Name": "Portland Heights",
+		"Phone": "503-243-1064",
+		"Address": "2855 SW Patton Rd",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97201",
+		"Hours": "11-7 M-S; 12-6 Sun"
+	},
+	{
+		"idStore": "1074",
+		"Name": "Portland Hillsdale",
+		"Phone": "503-244-4812",
+		"Address": "6327-D SW Capitol Hwy, Suite D ",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97239",
+		"Hours": "11-7 M-Th; 11-8 F; 11-7 S; Closed Sunday"
+	},
+	{
+		"idStore": "1182",
+		"Name": "Portland Hollywood",
+		"Phone": "503-284-0987",
+		"Address": "3738 NE Sandy Blvd.",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97232",
+		"Hours": "11-7 M-Th; 11-10 FS; Sun 12-5"
+	},
+	{
+		"idStore": "1201",
+		"Name": "Portland Jantzen Beach",
+		"Phone": "503-283-2907",
+		"Address": "1190 N Jantzen Dr.",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97217",
+		"Hours": "9:30-7:30 M-Th; 9:30-8 FS; 10-7 Sun"
+	},
+	{
+		"idStore": "1093",
+		"Name": "Portland Kenton",
+		"Phone": "503-285-1776",
+		"Address": "8221 N Denver Ave",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97217",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1187",
+		"Name": "Portland King Blvd",
+		"Phone": "503-493-3473",
+		"Address": "3532 NE MLK Jr. Blvd., Suite B ",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97212",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1221",
+		"Name": "Portland Lloyd Center",
+		"Phone": "503-288-0961",
+		"Address": "1621 NE 9th Ave",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97212",
+		"Hours": "11:00-8:00 M-S; 1-6:00 Sun"
+	},
+	{
+		"idStore": "1112",
+		"Name": "Portland Macadam",
+		"Phone": "503-246-1466",
+		"Address": "6141 SW Macadam Ave, Suite 103 ",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97239",
+		"Hours": "10-8 M-Th; 10-9 FS; 12-6 Sun"
+	},
+	{
+		"idStore": "1113",
+		"Name": "Portland Menlo Park",
+		"Phone": "503-252-3550",
+		"Address": "12425A NE Glisan Street",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97230",
+		"Hours": "9:30-8 M-Th, 9:30-9 FS; Closed Sunday"
+	},
+	{
+		"idStore": "1166",
+		"Name": "Portland Moreland",
+		"Phone": "503-235-3635",
+		"Address": "7207 SE Milwaukie Ave",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97202",
+		"Hours": "10-8 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1120",
+		"Name": "Portland Parkrose",
+		"Phone": "503-252-4409",
+		"Address": "4200 NE 122nd Ave",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97230",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1245",
+		"Name": "Portland Pearl District",
+		"Phone": "503-477-8604",
+		"Address": "900 NW Lovejoy St, Suite 140 ",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97209",
+		"Hours": "9-10 M-F; 10-10 S; 12-7 Sun"
+	},
+	{
+		"idStore": "1183",
+		"Name": "Portland Powell",
+		"Phone": "503-771-8107",
+		"Address": "5120 SE Powell Blvd.",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97206",
+		"Hours": "10-8 M-TH;10-9 F-S; Closed Sunday"
+	},
+	{
+		"idStore": "1202",
+		"Name": "Portland Raleigh Hills",
+		"Phone": "503-292-1572",
+		"Address": "4967 SW 76th Avenue",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97225",
+		"Hours": "11-7 M-S; 12-5 Sun"
+	},
+	{
+		"idStore": "1179",
+		"Name": "Portland Rose City",
+		"Phone": "503-284-7591",
+		"Address": "7253 NE Sandy Blvd.",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97213",
+		"Hours": "9:30-9 M-S; 11-4 Sun"
+	},
+	{
+		"idStore": "1142",
+		"Name": "Portland St Johns",
+		"Phone": "503-286-3931",
+		"Address": "8915 N Lombard Street",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97203",
+		"Hours": "10-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1200",
+		"Name": "Portland Tenth Ave",
+		"Phone": "503-227-3391",
+		"Address": "925 SW 10th Ave",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97205",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1185",
+		"Name": "Portland Uptown",
+		"Phone": "503-227-0338",
+		"Address": "1 NW 23rd Pl",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97210",
+		"Hours": "10-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1216",
+		"Name": "Portland West Slope",
+		"Phone": "503-297-5118",
+		"Address": "8765 SW Canyon Ln",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97225",
+		"Hours": "10-7 M-S; 1-5 Sun"
+	},
+	{
+		"idStore": "1215",
+		"Name": "Portland Woodstock",
+		"Phone": "503-777-3058",
+		"Address": "4324 SE Woodstock Blvd.",
+		"City": "Portland",
+		"State": "OR",
+		"ZIP": "97206",
+		"Hours": "10-7 M-S; 12-5 Sun"
+	},
+	{
+		"idStore": "1031",
+		"Name": "Powers",
+		"Phone": "541-439-2321",
+		"Address": "409 2nd Avenue",
+		"City": "Powers",
+		"State": "OR",
+		"ZIP": "97466",
+		"Hours": "Win: 8-6 M-Th; 8-7 FS; 9-6 Sun Sum: 8-7M-S; 9-6Sun"
+	},
+	{
+		"idStore": "1070",
+		"Name": "Prairie City",
+		"Phone": "541-820-3739",
+		"Address": "124 Front Street",
+		"City": "Prairie City",
+		"State": "OR",
+		"ZIP": "97869",
+		"Hours": "9-6 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1003",
+		"Name": "Prineville",
+		"Phone": "541-447-5844",
+		"Address": "1350 NE 3rd Avenue",
+		"City": "Prineville",
+		"State": "OR",
+		"ZIP": "97754",
+		"Hours": "10-7 M-S; 10-6 Sun"
+	},
+	{
+		"idStore": "1168",
+		"Name": "Prospect",
+		"Phone": "541-560-3655",
+		"Address": "500 Mill Creek Dr",
+		"City": "Prospect",
+		"State": "OR",
+		"ZIP": "97536",
+		"Hours": "Winter: 8-7 M-Sun; Summer: 8-8 M-Sun"
+	},
+	{
+		"idStore": "1052",
+		"Name": "Rainier",
+		"Phone": "503-556-6321",
+		"Address": "75928 Rockcrest",
+		"City": "Rainier",
+		"State": "OR",
+		"ZIP": "97048",
+		"Hours": "10-7 M-Th; 10-7:30 FS; 11-4 Sun"
+	},
+	{
+		"idStore": "1246",
+		"Name": "Redmond North",
+		"Phone": "541-526-1335",
+		"Address": "2757 NW 7th, Unit I ",
+		"City": "Redmond North",
+		"State": "OR",
+		"ZIP": "97756",
+		"Hours": "M-S 10-8; 10-5 Sun"
+	},
+	{
+		"idStore": "1004",
+		"Name": "Redmond South",
+		"Phone": "541-548-2722",
+		"Address": "1705 Odem Medo Rd.",
+		"City": "Redmond South",
+		"State": "OR",
+		"ZIP": "97756",
+		"Hours": "10-8 M-S, 10-5 Sun"
+	},
+	{
+		"idStore": "1019",
+		"Name": "Reedsport",
+		"Phone": "541-271-3412",
+		"Address": "1421 Highway 101 S",
+		"City": "Reedsport",
+		"State": "OR",
+		"ZIP": "97467",
+		"Hours": "10-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1078",
+		"Name": "Richland",
+		"Phone": "541-893-6167",
+		"Address": "209 Main Street",
+		"City": "Richland",
+		"State": "OR",
+		"ZIP": "97870",
+		"Hours": "9-6 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1075",
+		"Name": "Riddle",
+		"Phone": "541-874-2411",
+		"Address": "308 N Main Street",
+		"City": "Riddle",
+		"State": "OR",
+		"ZIP": "97469",
+		"Hours": "11-7 M-Th; 11-8 FS; 12-7 Sun"
+	},
+	{
+		"idStore": "1104",
+		"Name": "Rockaway",
+		"Phone": "503-355-8330",
+		"Address": "422 Hwy 101 S",
+		"City": "Rockaway",
+		"State": "OR",
+		"ZIP": "97136",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1050",
+		"Name": "Rogue River",
+		"Phone": "541-582-3260",
+		"Address": "502 E Main Street, Ste 4 ",
+		"City": "Rogue River",
+		"State": "OR",
+		"ZIP": "97537",
+		"Hours": "10-7 M-Th; 10-8 FS; 11-5 Sun"
+	},
+	{
+		"idStore": "1095",
+		"Name": "Roseburg East",
+		"Phone": "541-672-4322",
+		"Address": "1350-26 NE Stephens Street",
+		"City": "Roseburg East",
+		"State": "OR",
+		"ZIP": "97470",
+		"Hours": "10-7 M-Th; 10-8 FS; 11-4 Sun"
+	},
+	{
+		"idStore": "1225",
+		"Name": "Roseburg West",
+		"Phone": "541-672-9947",
+		"Address": "780 NW Garden Valley Blvd., #64 ",
+		"City": "Roseburg West",
+		"State": "OR",
+		"ZIP": "97470",
+		"Hours": "9-7 M-Th; 9-8 F; 9-7 S;11-5 Sun."
+	},
+	{
+		"idStore": "1198",
+		"Name": "Salem Battlecreek",
+		"Phone": "503-385-1725",
+		"Address": "5107 Commercial St SE",
+		"City": "Salem Battlecreek",
+		"State": "OR",
+		"ZIP": "97306",
+		"Hours": "9-9 M-SAT; 10-7 Sun"
+	},
+	{
+		"idStore": "1231",
+		"Name": "Salem Downtown",
+		"Phone": "503-364-8404",
+		"Address": "263 Commercial St SE",
+		"City": "Salem Downtown",
+		"State": "OR",
+		"ZIP": "97301",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1157",
+		"Name": "Salem East",
+		"Phone": "503-581-5654",
+		"Address": "698A Lancaster Dr NE",
+		"City": "Salem East",
+		"State": "OR",
+		"ZIP": "97301",
+		"Hours": "9-9 M-S; 9-7 Sun"
+	},
+	{
+		"idStore": "1141",
+		"Name": "Salem North",
+		"Phone": "503-581-1910",
+		"Address": "2829 Lancaster Dr. NE, Suite 150 ",
+		"City": "Salem North",
+		"State": "OR",
+		"ZIP": "97305",
+		"Hours": "9-9 M-S; 10-6 Sun"
+	},
+	{
+		"idStore": "1017",
+		"Name": "Salem South",
+		"Phone": "503-363-5242",
+		"Address": "3320 Commercial SE",
+		"City": "Salem South",
+		"State": "OR",
+		"ZIP": "97302",
+		"Hours": "8-8 M-Th; 8-9 FS; Closed Sunday"
+	},
+	{
+		"idStore": "1177",
+		"Name": "Salem West",
+		"Phone": "503-399-8554",
+		"Address": "1144 Wallace Rd NW",
+		"City": "Salem West",
+		"State": "OR",
+		"ZIP": "97304",
+		"Hours": "10-8 M-Th; 10-9 FS; 11-7 Sun"
+	},
+	{
+		"idStore": "1116",
+		"Name": "Sandy",
+		"Phone": "503-668-4447",
+		"Address": "38755 Pioneer Blvd",
+		"City": "Sandy",
+		"State": "OR",
+		"ZIP": "97055",
+		"Hours": "10-8 M-S; 11-6 Sun"
+	},
+	{
+		"idStore": "1156",
+		"Name": "Scappoose",
+		"Phone": "503-543-6515",
+		"Address": "52517 Columbia River Hwy",
+		"City": "Scappoose",
+		"State": "OR",
+		"ZIP": "97056",
+		"Hours": "10-7 M-F; 10-6 S; Closed Sunday"
+	},
+	{
+		"idStore": "1151",
+		"Name": "Seaside",
+		"Phone": "503-738-6641",
+		"Address": "740 Avenue H, Suite A ",
+		"City": "Seaside",
+		"State": "OR",
+		"ZIP": "97138",
+		"Hours": "11-7 M-S, 12-5 Sun"
+	},
+	{
+		"idStore": "1047",
+		"Name": "Shady Cove",
+		"Phone": "541-878-2121",
+		"Address": "22111 Highway 62",
+		"City": "Shady Cove",
+		"State": "OR",
+		"ZIP": "97539",
+		"Hours": "7-10 M-Sun"
+	},
+	{
+		"idStore": "1053",
+		"Name": "Sheridan",
+		"Phone": "503-843-2422",
+		"Address": "103 E Main Street",
+		"City": "Sheridan",
+		"State": "OR",
+		"ZIP": "97378",
+		"Hours": "9-6 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1124",
+		"Name": "Sherwood",
+		"Phone": "503-925-0467",
+		"Address": "16350 SW Langer Dr",
+		"City": "Sherwood",
+		"State": "OR",
+		"ZIP": "97140",
+		"Hours": "10:30-7:30 M-Th; 10:30-8 FS; Closed Sunday"
+	},
+	{
+		"idStore": "1133",
+		"Name": "Silver Lake",
+		"Phone": "541-576-2131",
+		"Address": "65554 Hwy 31",
+		"City": "Silver Lake",
+		"State": "OR",
+		"ZIP": "97638",
+		"Hours": "Winter: 8-7 M-S; Summer: 8-7 M-S; 10-3 Sun"
+	},
+	{
+		"idStore": "1008",
+		"Name": "Silverton",
+		"Phone": "503-873-5050",
+		"Address": "920 N First Street",
+		"City": "Silverton",
+		"State": "OR",
+		"ZIP": "97381",
+		"Hours": "10-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1090",
+		"Name": "Sisters",
+		"Phone": "541-549-9841",
+		"Address": "111 W Cascade Avenue",
+		"City": "Sisters",
+		"State": "OR",
+		"ZIP": "97759",
+		"Hours": "Win: 9:30-6M-S; 9:30-5Sun.Sum: 9:30-7M-S;9:30-5Sun"
+	},
+	{
+		"idStore": "1196",
+		"Name": "Springfield East",
+		"Phone": "541-726-9278",
+		"Address": "5511 Main St",
+		"City": "Springfield East",
+		"State": "OR",
+		"ZIP": "97477",
+		"Hours": "10-8 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1143",
+		"Name": "Springfield Gateway",
+		"Phone": "541-736-3959",
+		"Address": "812 Beltline Rd.",
+		"City": "Springfield Gateway",
+		"State": "OR",
+		"ZIP": "97477",
+		"Hours": "11-8 M-S; 12-5 Sun"
+	},
+	{
+		"idStore": "1195",
+		"Name": "Springfield West",
+		"Phone": "541-746-4611",
+		"Address": "1408 Mohawk Blvd",
+		"City": "Springfield West",
+		"State": "OR",
+		"ZIP": "97477",
+		"Hours": "10-8 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1028",
+		"Name": "ST Helens",
+		"Phone": "503-397-1733",
+		"Address": "420 Columbia Blvd",
+		"City": "ST Helens",
+		"State": "OR",
+		"ZIP": "97051",
+		"Hours": "10-7 M-F; 10-6 S; 12-5 Sun"
+	},
+	{
+		"idStore": "1144",
+		"Name": "Stanfield",
+		"Phone": "541-449-3244",
+		"Address": "225 Main St",
+		"City": "Stanfield",
+		"State": "OR",
+		"ZIP": "97875",
+		"Hours": "7-9 M-S; 7-9 Sun"
+	},
+	{
+		"idStore": "1132",
+		"Name": "Stayton",
+		"Phone": "503-769-5758",
+		"Address": "2520 Martin Dr",
+		"City": "Stayton",
+		"State": "OR",
+		"ZIP": "97383",
+		"Hours": "11-7 M-Th; 11-8 FS; Closed Sunday"
+	},
+	{
+		"idStore": "1099",
+		"Name": "Sumpter",
+		"Phone": "541-894-2362",
+		"Address": "150 N Mill St",
+		"City": "Sumpter",
+		"State": "OR",
+		"ZIP": "97877",
+		"Hours": "8-6 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1173",
+		"Name": "Sunriver",
+		"Phone": "541-593-8113",
+		"Address": "57100 Beaver Dr. Bldg. 1",
+		"City": "Sunriver",
+		"State": "OR",
+		"ZIP": "97707",
+		"Hours": "7-9 M-Th; 7-10 FS; 7-9 Sun"
+	},
+	{
+		"idStore": "1060",
+		"Name": "Sutherlin",
+		"Phone": "541-459-4108",
+		"Address": "125 W Central Avenue",
+		"City": "Sutherlin",
+		"State": "OR",
+		"ZIP": "97479",
+		"Hours": "9-7 M-S; 11-5 Sun"
+	},
+	{
+		"idStore": "1106",
+		"Name": "Sweet Home",
+		"Phone": "541-367-3350",
+		"Address": "1301 Main St.",
+		"City": "Sweet Home",
+		"State": "OR",
+		"ZIP": "97386",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1232",
+		"Name": "Talent",
+		"Phone": "541-535-2522",
+		"Address": "101 N Pacific Hwy",
+		"City": "Talent",
+		"State": "OR",
+		"ZIP": "97540",
+		"Hours": "8:30-7 M-Th; 8:30-8 FS; Closed Sunday"
+	},
+	{
+		"idStore": "1067",
+		"Name": "The Dalles",
+		"Phone": "541-298-2040",
+		"Address": "430 Mt. Hood Street",
+		"City": "The Dalles",
+		"State": "OR",
+		"ZIP": "97058",
+		"Hours": "10-7 M-Th; 10-8 FS; 11-6 Sun"
+	},
+	{
+		"idStore": "1048",
+		"Name": "Tigard",
+		"Phone": "503-639-1483",
+		"Address": "12490 SW Main Street",
+		"City": "Tigard",
+		"State": "OR",
+		"ZIP": "97223",
+		"Hours": "11-7 M-F, 10-7 S; Closed Sunday"
+	},
+	{
+		"idStore": "1102",
+		"Name": "Tillamook",
+		"Phone": "503-842-4172",
+		"Address": "1905 1st St",
+		"City": "Tillamook",
+		"State": "OR",
+		"ZIP": "97141",
+		"Hours": "10-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1024",
+		"Name": "Toledo",
+		"Phone": "541-336-2261",
+		"Address": "722 W Highway 20",
+		"City": "Toledo",
+		"State": "OR",
+		"ZIP": "97391",
+		"Hours": "9-6 M-S; 10-5 Sun"
+	},
+	{
+		"idStore": "1180",
+		"Name": "Tualatin",
+		"Phone": "503-612-9833",
+		"Address": "8101 SW Nyberg Rd, Ste 101 ",
+		"City": "Tualatin",
+		"State": "OR",
+		"ZIP": "97062",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1171",
+		"Name": "Ukiah",
+		"Phone": "541-427-3271",
+		"Address": "202 E Main Street",
+		"City": "Ukiah",
+		"State": "OR",
+		"ZIP": "97880",
+		"Hours": "8-7 M-S; 10-7 Sun"
+	},
+	{
+		"idStore": "1040",
+		"Name": "Umatilla",
+		"Phone": "541-922-4730",
+		"Address": "1508 6th St",
+		"City": "Umatilla",
+		"State": "OR",
+		"ZIP": "97882",
+		"Hours": "10:30-7 M-S; 11-4 Sun"
+	},
+	{
+		"idStore": "1021",
+		"Name": "Union",
+		"Phone": "541-562-5472",
+		"Address": "206 S Main Street",
+		"City": "Union",
+		"State": "OR",
+		"ZIP": "97883",
+		"Hours": "8-6 M-S; Sun 10-4"
+	},
+	{
+		"idStore": "1207",
+		"Name": "Unity",
+		"Phone": "541-446-3636",
+		"Address": "304 Main Street",
+		"City": "Unity",
+		"State": "OR",
+		"ZIP": "97884",
+		"Hours": "9-6 M-S; 10-5 Sun"
+	},
+	{
+		"idStore": "1059",
+		"Name": "Vale",
+		"Phone": "541-473-3474",
+		"Address": "160 Washington St E",
+		"City": "Vale",
+		"State": "OR",
+		"ZIP": "97918",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1190",
+		"Name": "Veneta",
+		"Phone": "541-935-3224",
+		"Address": "25585 Highway 126",
+		"City": "Veneta",
+		"State": "OR",
+		"ZIP": "97487",
+		"Hours": "11-7 M-Th; 11-8 FS; 11-4 Sun"
+	},
+	{
+		"idStore": "1072",
+		"Name": "Vernonia",
+		"Phone": "503-429-5651",
+		"Address": "1026 Bridge St",
+		"City": "Vernonia",
+		"State": "OR",
+		"ZIP": "97064",
+		"Hours": "9-6 M-Th; 9-7 FS; 12-5 Sun"
+	},
+	{
+		"idStore": "1045",
+		"Name": "Waldport",
+		"Phone": "541-563-3727",
+		"Address": "235 Hwy 101",
+		"City": "Waldport",
+		"State": "OR",
+		"ZIP": "97394",
+		"Hours": "10-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1083",
+		"Name": "Wallowa",
+		"Phone": "541-886-2271",
+		"Address": "101 W 1st Street",
+		"City": "Wallowa",
+		"State": "OR",
+		"ZIP": "97885",
+		"Hours": "10-6 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1234",
+		"Name": "Wamic",
+		"Phone": "541-544-2333",
+		"Address": "57016 Wamic Market Rd",
+		"City": "Wamic",
+		"State": "OR",
+		"ZIP": "97063",
+		"Hours": "8-6 M-Sun"
+	},
+	{
+		"idStore": "1087",
+		"Name": "Warrenton",
+		"Phone": "503-861-1103",
+		"Address": "1673 E Harbor Street",
+		"City": "Warrenton",
+		"State": "OR",
+		"ZIP": "97146",
+		"Hours": "10-7 M-S, 11-4 Sun"
+	},
+	{
+		"idStore": "1140",
+		"Name": "Wasco",
+		"Phone": "541-442-5220",
+		"Address": "1020 Clark St",
+		"City": "Wasco",
+		"State": "OR",
+		"ZIP": "97065",
+		"Hours": "8-6 M-S; 10-2 Sun"
+	},
+	{
+		"idStore": "1115",
+		"Name": "Welches",
+		"Phone": "503-622-3408",
+		"Address": "68254 E Highway 26",
+		"City": "Welches",
+		"State": "OR",
+		"ZIP": "97067",
+		"Hours": "11-7 M-S; 12-4 Sun"
+	},
+	{
+		"idStore": "1212",
+		"Name": "West Linn North",
+		"Phone": "503-697-3504",
+		"Address": "19335 SW Willamette Drive",
+		"City": "West Linn North",
+		"State": "OR",
+		"ZIP": "97068",
+		"Hours": "10-8 M-S; 11-6 Sun"
+	},
+	{
+		"idStore": "1240",
+		"Name": "West Linn South",
+		"Phone": "503-723-7455",
+		"Address": "21130 S. Salamo Rd",
+		"City": "West Linn South",
+		"State": "OR",
+		"ZIP": "97068",
+		"Hours": "11-7 M-Th; 11-8 FS; 12-5 Sun"
+	},
+	{
+		"idStore": "1121",
+		"Name": "Wheeler",
+		"Phone": "503-368-4906",
+		"Address": "327 Nehalem Blvd",
+		"City": "Wheeler",
+		"State": "OR",
+		"ZIP": "97147",
+		"Hours": "10-6 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1147",
+		"Name": "Willamina",
+		"Phone": "503-876-8652",
+		"Address": "212 NE Main St.",
+		"City": "Willamina",
+		"State": "OR",
+		"ZIP": "97396",
+		"Hours": "9-6 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1184",
+		"Name": "Wilsonville",
+		"Phone": "503-682-0323",
+		"Address": "29955 SW Boones Ferry Rd, Ste H2 ",
+		"City": "Wilsonville",
+		"State": "OR",
+		"ZIP": "97070",
+		"Hours": "11-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1029",
+		"Name": "Winston",
+		"Phone": "541-679-7925",
+		"Address": "390 SW Douglas Blvd",
+		"City": "Winston",
+		"State": "OR",
+		"ZIP": "97496",
+		"Hours": "10-7 M-S; Closed Sunday"
+	},
+	{
+		"idStore": "1068",
+		"Name": "Woodburn",
+		"Phone": "503-981-1227",
+		"Address": "1519 N Pacific Hwy",
+		"City": "Woodburn",
+		"State": "OR",
+		"ZIP": "97071",
+		"Hours": "10-7 M-S, 11-5 Sun"
+	}
+]
